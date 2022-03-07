@@ -11,5 +11,5 @@
 - Compositor: `picom`
 - Font: `JetBrainsMono Nerd Font`
 
-## Observations
+## Notes
 DWM is patched with [fullgaps](https://dwm.suckless.org/patches/fullgaps/), [fibonacci](https://dwm.suckless.org/patches/fibonacci/) and [alwayscenter](https://dwm.suckless.org/patches/alwayscenter/).
